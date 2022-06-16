@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://hume100.github.io/myrep/sitemap.xml
